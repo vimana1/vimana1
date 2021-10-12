@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning neo4j as a noSQL database
 - 💞️ I’m looking to collaborate on BSD, MIT and Apache license in accordance with approved Open Source technologies.
 - 📫 How to reach me uday.moorjani@protonmail.com
+- Work in progress, BSD is an amazing kernel to work with. OpenBSD as a cerberus firewall based on OpnSense (OpenBSD and HardenedBSD fork).
 
 <!---
 vimana1/vimana1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
